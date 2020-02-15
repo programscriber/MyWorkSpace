@@ -1,0 +1,5 @@
+limit-service.minimum = 8
+limit-service.maximum = 888
+
+
+spring.cloud.config.server.git.uri=file://C:\Users\Shanmu\git\repository\git-repo
